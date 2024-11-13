@@ -8,6 +8,7 @@ products:
 - azure-app-service
 ---
 
+
 # Authenticate and authorize users end-to-end in Azure App Service
 
 Azure App Service provides a highly scalable, self-patching web hosting service. In addition, App Service has built-in support for [user authentication and authorization](https://learn.microsoft.com/azure/app-service/overview-authentication-authorization). This tutorial shows how to secure your apps with App Service authentication and authorization. It uses an Express.js with views frontend as an example. App Service authentication and authorization support all language runtimes, and you can learn how to apply it to your preferred language by following the tutorial.
